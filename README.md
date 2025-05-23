@@ -26,10 +26,11 @@ LLMs have made impressive progress, but their growing capabilities also expose t
 We follow the [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) to install the required dependencies, please run the following commands:
 
 ```bash
-cd Train_Meta_Attacker_Defender/LLaMA-Factory
+git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git
+cd LLaMA-Factory
 pip install -e ".[torch,metrics]" --no-build-isolation
 cd ..
-cd ..
+git clone 
 pip install -r requirements.txt
 ```
 
