@@ -1,0 +1,1 @@
+This folder is used to store procedure files among the Adversarial-Play process between the Meta-Attacker and the Defender.
