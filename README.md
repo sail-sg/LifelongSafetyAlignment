@@ -46,7 +46,7 @@ We provide an example on the past tense attack (2407.11969.pdf).
 ```
 bash Warm_Up_Stage/strategy_pdfapi.sh
 ```
-
+(We find currently Deepseek-R1 supports uploading files along with deep thinking mode. This powerful model achieves better summarization performance with our prompts when we compare it with GPT-4o API.)
 
 ### 🗡️ Adversarial-Play Stage
 
