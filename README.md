@@ -30,7 +30,8 @@ git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git
 cd LLaMA-Factory
 pip install -e ".[torch,metrics]" --no-build-isolation
 cd ..
-git clone 
+git clone https://github.com/sail-sg/LifelongSafetyAlignment.git
+cd LifelongSafetyAlignment
 pip install -r requirements.txt
 ```
 
