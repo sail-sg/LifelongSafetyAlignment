@@ -67,7 +67,7 @@ bash Refusal_Gen/refusal_gen.sh
 ```
 
 ### ♻️ Finetuning
-We follow the LLaMA-Factory to do the finetuning. We provide the corresponding finetuning config in Train_Meta_Attacker_Defender/LLaMA-Factory/examples/train_lora/
+We follow the LLaMA-Factory to do the finetuning. We provide the corresponding finetuning config in Train_Meta_Attacker_Defender/
 
 ### 🌹 Evaluation
 To evaluate the unseen attack, use the test 100 goals. Set the correct Meta-Attacker and Defender path.
