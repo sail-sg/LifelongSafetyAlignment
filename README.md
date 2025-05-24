@@ -1,5 +1,5 @@
 <div align="center">
-<h2><a href="https://arxiv.org/abs/2504.15257">	
+<h2><a href="todo">	
 Lifelong Safety Alignment for Language Models</a></h2>
 
 </a></h2>
