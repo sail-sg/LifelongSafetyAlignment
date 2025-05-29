@@ -85,3 +85,18 @@ Bash Evaluation/eval.sh
 
 This repository is based on the codebase of [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory). We learn lessons from the prompts in [AutoDAN-Turbo](https://github.com/SaFoLab-WISC/AutoDAN-Turbo). Thanks for their impressive work!
 
+
+## Citation
+If you find our works useful for your research, please consider citing:
+
+```bibtex
+@misc{wang2025lifelongsafetyalignmentlanguage,
+      title={Lifelong Safety Alignment for Language Models}, 
+      author={Haoyu Wang and Zeyu Qin and Yifei Zhao and Chao Du and Min Lin and Xueqian Wang and Tianyu Pang},
+      year={2025},
+      eprint={2505.20259},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2505.20259}, 
+}
+```
