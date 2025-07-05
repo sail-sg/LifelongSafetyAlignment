@@ -90,13 +90,10 @@ This repository is based on the codebase of [LLaMA-Factory](https://github.com/h
 If you find our works useful for your research, please consider citing:
 
 ```bibtex
-@misc{wang2025lifelongsafetyalignmentlanguage,
-      title={Lifelong Safety Alignment for Language Models}, 
-      author={Haoyu Wang and Zeyu Qin and Yifei Zhao and Chao Du and Min Lin and Xueqian Wang and Tianyu Pang},
-      year={2025},
-      eprint={2505.20259},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2505.20259}, 
+@article{wang2025lifelong,
+  title={Lifelong Safety Alignment for Language Models},
+  author={Wang, Haoyu and Qin, Zeyu and Zhao, Yifei and Du, Chao and Lin, Min and Wang, Xueqian and Pang, Tianyu},
+  journal={arXiv preprint arXiv:2505.20259},
+  year={2025}
 }
 ```
