@@ -21,6 +21,7 @@ LLMs have made impressive progress, but their growing capabilities also expose t
 </div>
 
 ## Updates
+* 09/2025: 🎉 Lifelong Safety Alignment for Language Models has been accepted by NeurIPS 2025 as a poster!
 * 05/2025: This repo is still an early/rough version, and we're continuously refining the codebase.
 
 ### 🚀 Installation
